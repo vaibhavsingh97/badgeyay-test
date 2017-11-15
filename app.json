@@ -1,0 +1,21 @@
+{
+  "name": "badgeyay-test",
+  "description": "A fully functional badges generator using flask",
+  "scripts": {
+  },
+  "env": {
+    "": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
