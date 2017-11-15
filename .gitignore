@@ -1,0 +1,7 @@
+/*.csv#
+*.badges
+*.swp
+*.pyc
+*.log
+.env
+.vagrant/
